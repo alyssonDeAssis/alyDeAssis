@@ -3,17 +3,17 @@
 App utilizando Api de Consulta do Github;
 
 +Instalação dos pacotes:
-cd backend =>
+cd backend
 npm install
 
-cd backend =>
+cd backend 
 npm install
 
 -inicialização da aplicação:
-cd backend =>
+cd backend 
 npm start 
 
-cd frontend =>
+cd frontend 
 npm start
 
 +Tecnologias utilizadas:
