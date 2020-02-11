@@ -6,7 +6,7 @@ App utilizando Api de Consulta do Github;
 cd backend
 npm install
 
-cd backend 
+cd frontend 
 npm install
 
 -inicialização da aplicação:
